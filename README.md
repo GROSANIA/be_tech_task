@@ -7,7 +7,7 @@ This Java program checks if a given string is a palindrome. A palindrome is a wo
 1. Clone this repository to your local machine.
 
    ```shell
-   [git clone https://github.com/your-username/palindrome-checker.git](https://github.com/GROSANIA/be_tech_task.git)
+   https://github.com/GROSANIA/be_tech_task.git
 
    
 2. Open NetBeans and go to "File" > "Open Project..." and select the cloned repository folder.
